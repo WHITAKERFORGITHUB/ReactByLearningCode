@@ -12,7 +12,7 @@ const initState = {
 
 const ReadComponent = ({tno}) => {
 
-  const [todo, setTodo] = useState(initState) //아직 todo는 사용하지 않음 
+  const [todo, setTodo] = useState(initState) //아직   todo는 사용하지 않음 
   
   // const {moveToList, moveToModify} = useCustomMove()
 
